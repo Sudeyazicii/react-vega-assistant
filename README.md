@@ -4,7 +4,6 @@
 
 **Doğal dil işleme (NLP)** ve **Vega-Lite** gücünü birleştirerek, sadece ne görmek istediğinizi yazarak saniyeler içinde etkileşimli grafikler oluşturun.
 
-![Örnek Grafik](./bar_chart_sample.png)
 
 ## 🌟 Özellikler
 
@@ -54,11 +53,3 @@ Arayüzdeki metin kutusuna aşağıdaki gibi komutlar yazarak grafikleri deneyim
 *   *"Fiyat ve Stok durumu için scatter plot çiz"*
 *   *"Aylara göre satış dağılımını göster (line chart)"*
 *   *"Bölgelere göre karlılık (bar chart)"*
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Bir sorun bulursanız veya yeni bir özellik eklemek isterseniz, lütfen bir "issue" açın veya "pull request" gönderin.
-
----
-
-*React ve Yapay Zeka ile ❤️ kullanılarak geliştirilmiştir.*
